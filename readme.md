@@ -1,0 +1,1 @@
+this is an html file to display an image which blue around a rectangular region when the mouse is hovered over the rectangular region of the screen.
